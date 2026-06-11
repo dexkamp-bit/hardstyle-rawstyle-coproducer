@@ -1,0 +1,8 @@
+numpy==1.24.3
+scipy==1.11.0
+music21==9.1.0
+midi==0.2.3
+audioread==3.0.1
+librosa==0.10.0
+PySide6==6.5.0
+dunamai==1.18.0
